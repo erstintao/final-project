@@ -1,5 +1,5 @@
 # Final Project Outline
-#### Title Differential Gene Expression in TCGA within Stage 1 kidney Adenocarcinomas comparing heavy and light smokers using DeSEQ2
+#### Title Differential Gene Expression in TCGA within Stage 1 kidney Adenocarcinomas comparing alcohol drinkers and non-drinkers using DeSEQ2
 ##### Author Siqi Tao
 
 ## Overview of project 
